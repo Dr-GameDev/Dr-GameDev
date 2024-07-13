@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm Babalo Majiyezi, an enthusiastic and developing full stack developer. My passion lies in creating dynamic, responsive, and user-friendly web applications. With a solid foundation in both front-end and back-end technologies, I aim to build seamless and efficient solutions that make a difference.
+
+🔭 I’m currently working on becoming the best developer I can be, making sure each and everyday I'm better than I was the previous.
